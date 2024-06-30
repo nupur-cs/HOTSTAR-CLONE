@@ -1,7 +1,8 @@
-﻿#Disney+ Hotstar Clone
+﻿# Disney+ Hotstar Clone
 
-##Demonstration Video of Project
+https://github.com/nupur-cs/HOTSTAR-CLONE/assets/122190160/75284a85-303b-465b-824c-9f15f5eb0b82
 
-https://github.com/nupur-cs/HOTSTAR-CLONE/assets/122190160/3e03f447-72f1-4681-b605-06d96b5d87be
+
+
 
 
